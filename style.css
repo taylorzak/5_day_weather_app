@@ -18,6 +18,8 @@ body {
 }
 
 #cityInput, #cityName, #inputContainer, button{
+    border-radius: 10px;
+    overflow: hidden;
     margin: 3px;
     padding: 5px;
     text-align: center;
